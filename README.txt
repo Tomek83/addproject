@@ -1,3 +1,4 @@
+Author: tomek.antczak@gmail.com
 Useful shell script for creating basic environment for new projects. This basic environments consist of adding proper /etc/hosts entry, virtual host and project document root creation, setting proper access rights. For instance typing below command ...
 
 sudo ./project.sh myproject
